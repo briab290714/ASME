@@ -1,0 +1,11 @@
+{
+  "smoothing_factor": 6,
+  "frame_margin": 0.15,
+  "active_zone": null,
+  "click_cooldown_seconds": 0.4,
+  "drag_hold_seconds": 0.25,
+  "drag_move_threshold_px": 25,
+  "hand_lost_grace_seconds": 0.6,
+  "scroll_enabled": true,
+  "scroll_sensitivity": 1800
+}
