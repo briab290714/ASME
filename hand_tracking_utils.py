@@ -74,7 +74,7 @@ THUMB_CURLED_ANGLE = 100.0
 # A "pinch" (thumb tip touching index tip) is measured as a fraction of the
 # hand's own size (wrist-to-middle-MCP distance) rather than a fixed pixel
 # value, so it works whether the hand is close to or far from the camera.
-PINCH_DISTANCE_RATIO = 0.30
+PINCH_DISTANCE_RATIO = 0.45
 
 
 # ---------------------------------------------------------------------------
